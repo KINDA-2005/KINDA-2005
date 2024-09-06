@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KINDA-2005
 - 👀 I’m interested in development ia
 - 🌱 I’m currently learning about this
-- 💞️ I’m looking to collaborate on develloper
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on les codeur
+- 📫 How to reach me dwourykinda@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
